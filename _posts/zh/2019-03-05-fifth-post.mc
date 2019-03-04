@@ -1,5 +1,5 @@
 ---
-title: Xth post
+title: fifth post
 description: 'This is the Xth post of the "posts" collection.'
 lang: en
 image: /files/images/translation.jpg
